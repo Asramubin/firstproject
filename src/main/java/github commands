@@ -1,0 +1,37 @@
+2.Explore git and github commands. 
+ 
+git commands. 
+ 
+ 
+Git init : To create git repository
+Git add file: adding file to staging
+Git commit –m “msg”: moving file from staging to .git 
+repository. We can keep track of changes by 
+commiting.
+Git branch branchname: creating ing new branch as 
+copy of master.
+Git branch : shows all branches and shows where is 
+pointer now.
+Git checkout branchname: moving pointer from present 
+branch to specified branch.
+Git log: displays all commits with info.
+Git log --oneline: displays all commits with each in 
+single line.
+Git merge branchname: copy from branch to pointer 
+which is in head state now.
+ 
+GITHUB COMMANDS
+GITHUB FORK:
+Fork is a copy of a repository. This is useful when you want to contribute to 
+someone else's project or start your own project based on theirs.
+Fork is not a command in Git, but something offered in GitHub and other 
+repository hosts.
+logging in to GitHub, and fork the repository, Now you have your own copy of 
+repository.
+GITHUB PULL REQUEST:
+On GitHub, and we see that the repository has a new commit. And we can send 
+a Pull Request to the original repository
+GITHUB BRANCH:
+On GitHub, access your repository and click the "master" branch button.
+There you can create a new Branch. Type in a descriptive name, and click 
+Create branch:
